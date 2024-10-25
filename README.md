@@ -4,15 +4,15 @@
 ## Description
 A bookstore app using the MERN stack.  This app uses all the normal dependencies in a MERN application plus Tailwind and Notistack on the front end.  This app was built watching a youTube tutorial.  Link to the tutorial below.
 
-![screenshot1](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot1.png)
-![screenshot2](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot2.png)
-![screenshot3](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot3.png)
-![screenshot4](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot1.png)
-![screenshot5](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot2.png)
-![screenshot6](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot3.png)
-![screenshot7](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot3.png)
+![screenshot1](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot%201.png)
+![screenshot2](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot2.png)
+![screenshot3](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot3.png)
+![screenshot4](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot4.png)
+![screenshot5](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot5.png)
+![screenshot6](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot6.png)
+![screenshot7](https://github.com/KKurzawa/Bookstore/blob/main/frontend/public/Screenshot7.png)
 
-[Github Repository](https://github.com/KKurzawa/react-login)
+[Github Repository](https://github.com/KKurzawa/Bookstore)
 
 ## Credits
 
